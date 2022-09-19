@@ -1,0 +1,2 @@
+# Magazine
+a responsive website
